@@ -1,34 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio with Next.js
 
-## Getting Started
+*image coming soon!*
 
-First, run the development server:
+## This FrontEnd Built With
+- [Next.js](https://nextjs.org/)
+- [Sass SCSS](https://sass-lang.com/)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Why make this?
+- To showcase a few projects, offer my resume, and have a place for folks to contact me.  
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+- As a front end developer, I enjoy making projects with new technologies to continue learning about software development.  This project allowed me to play around with **Next.js**, which is a tool ive been meaning to try out recently, and has been a real joy to work with!  In this case, SSG made sense given I only have HTML and a few images im serving to the client.  
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+- This project both updated my previous portfolio site, and challenged me to learn more development technologies.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+## How do I see it?
 
-## Learn More
+1. Visit [my current portfolio site](http://wdowney-schell.com)
+2. Visit the live Next.js portfolio site - coming soon!
 
-To learn more about Next.js, take a look at the following resources:
+or spin up the files in the repo on your local machine:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone this repo to local machine
+2. Navigate to `next-portfolio` folder
+4. In project folder:
+- run `npm install` to install dependencies from `package.json`
+- run `npm run dev` to begin development server on `localhost:3000`
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## What this repo contains
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- `index.js` is where most of the interesting work is done.
+- `/styles` contains all the modular `.scss` files for each component
+- `package.json` is where you can check out the project dependencies
