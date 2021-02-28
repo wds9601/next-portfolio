@@ -1,10 +1,11 @@
 # Portfolio with Next.js
 
-*image coming soon!*
+- *This is still work-in-progress!*
+- *Image coming soon!*
 
 ## This FrontEnd Built With
 - [Next.js](https://nextjs.org/)
-- [Sass SCSS](https://sass-lang.com/)
+- [Tailwind CSS](https://tailwindcss.com/)
 
 
 ## Why make this?
@@ -17,7 +18,7 @@
 ## How do I see it?
 
 1. Visit [my current portfolio site](http://wdowney-schell.com)
-2. Visit the live Next.js portfolio site - coming soon!
+2. Eventually, Visit the live Next.js portfolio site
 
 or spin up the files in the repo on your local machine:
 
@@ -31,5 +32,4 @@ or spin up the files in the repo on your local machine:
 ## What this repo contains
 
 - `index.js` is where most of the interesting work is done.
-- `/styles` contains all the modular `.scss` files for each component
 - `package.json` is where you can check out the project dependencies
